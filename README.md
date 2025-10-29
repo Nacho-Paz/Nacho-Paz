@@ -45,7 +45,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> ¡Conectémonos..!</b>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFkcHBwNWpvcHl6MDJ0cTJidjB6cGk4aWNhNzAyZ25hNzEwYmJ6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MoHeNpVm3bGAo2iYK3/giphy.gif" width ="25"><b> ¡Conectémonos..!</b>
 
 <a href="www.linkedin.com/in/ignaciojavierpaz" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:%20Ignacio%20Javier%20Paz-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
