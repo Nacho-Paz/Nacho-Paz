@@ -16,7 +16,7 @@
 
 🌱 Me encuentro aprendiendo Javascript y React.
 
-📖 Ademas de programar, disfruto mucho leer, ver películas, escuchar música, ir al gimnasio y pasar tiempo con mi seres queridos.
+📖 Ademas de programar, disfruto mucho leer, ver películas, escuchar música, ir al gimnasio y pasar tiempo con mis seres queridos.
 
 <br>
 
