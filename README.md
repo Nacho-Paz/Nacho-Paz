@@ -14,7 +14,13 @@
 
 🎓 Actualmente estoy estudiando Ingeniería en Sistemas de Información en UTN-FRT.
 
-🌱 Me encuentro aprendiendo Javascript y React.
+🌱 Me encuentro aprendiendo:
+- Buenas prácticas de diseño (DTOs, capas, patrones).
+- Testing con JUnit y Mockito.
+- Docker.
+- Postman / Swagger para documentación de APIs.
+- PostgreSQL.
+
 
 📖 Ademas de programar, disfruto mucho leer, ver películas, escuchar música, ir al gimnasio y pasar tiempo con mis seres queridos.
 
