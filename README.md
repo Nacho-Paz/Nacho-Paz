@@ -18,7 +18,7 @@
 - Buenas prácticas de diseño (DTOs, capas, patrones).
 - Testing con JUnit y Mockito.
 - Docker.
-- Postman / Swagger para documentación de APIs.
+- Swagger para documentación de APIs.
 - PostgreSQL.
 
 
@@ -44,6 +44,8 @@
 ### Other Tools and Technologies
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-730F0F.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
